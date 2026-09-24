@@ -1,0 +1,13 @@
+# Provisional: replace once this repository's stack is chosen.
+
+# Build output
+build/
+dist/
+out/
+target/
+
+# Dependencies and caches
+node_modules/
+.venv/
+__pycache__/
+.cache/
